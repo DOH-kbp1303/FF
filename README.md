@@ -1,2 +1,3 @@
 # FF
-trying to learn Git
+trying to learn Git 
+hopeful?
